@@ -1,0 +1,6 @@
+﻿  units.cpp
+  Route.cpp
+  Code wird generiert...
+c:\users\jan-ole\documents\visual studio 2017\projects\pa24_flightplanner\pa24_flightplanner\units.cpp(69): warning C4723: Mögliche Division durch 0 (Null)
+  PA24_FlightPlanner.vcxproj -> C:\Users\Jan-Ole\documents\visual studio 2017\Projects\PA24_FlightPlanner\Debug\PA24_FlightPlanner.exe
+  PA24_FlightPlanner.vcxproj -> C:\Users\Jan-Ole\documents\visual studio 2017\Projects\PA24_FlightPlanner\Debug\PA24_FlightPlanner.pdb (Partial PDB)
