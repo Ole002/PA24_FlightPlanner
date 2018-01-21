@@ -149,6 +149,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="AircraftData.h" />
+    <ClInclude Include="CfpReader.h" />
     <ClInclude Include="NavAid.h" />
     <ClInclude Include="Route.h" />
     <ClInclude Include="main.h" />

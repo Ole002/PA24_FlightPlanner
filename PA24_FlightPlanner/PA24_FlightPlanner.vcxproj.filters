@@ -56,5 +56,8 @@
     <ClInclude Include="units.h">
       <Filter>Headerdateien</Filter>
     </ClInclude>
+    <ClInclude Include="CfpReader.h">
+      <Filter>Headerdateien</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

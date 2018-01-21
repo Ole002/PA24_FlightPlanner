@@ -1,3 +1,10 @@
-﻿  AircraftData.cpp
-  PA24_FlightPlanner.vcxproj -> C:\Users\Jan-Ole\Documents\Visual Studio 2017\Projects\PA24_FlightPlanner\x64\Debug\PA24_FlightPlanner.exe
-  PA24_FlightPlanner.vcxproj -> C:\Users\Jan-Ole\Documents\Visual Studio 2017\Projects\PA24_FlightPlanner\x64\Debug\PA24_FlightPlanner.pdb (Partial PDB)
+﻿  units.cpp
+  Route.cpp
+  ofpWriter.cpp
+  NavAid.cpp
+  main.cpp
+  fpReader.cpp
+  AircraftData.cpp
+  Code wird generiert...
+  PA24_FlightPlanner.vcxproj -> C:\Users\Jan-Ole\Documents\GitHub\PA24_FlightPlanner\x64\Debug\PA24_FlightPlanner.exe
+  PA24_FlightPlanner.vcxproj -> C:\Users\Jan-Ole\Documents\GitHub\PA24_FlightPlanner\x64\Debug\PA24_FlightPlanner.pdb (Partial PDB)
