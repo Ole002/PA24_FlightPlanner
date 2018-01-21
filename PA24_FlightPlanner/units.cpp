@@ -85,7 +85,7 @@ double CVelocity::dGetMilesPerHour() {
 	return (this->dValue*0.44704);
 }
 double CVelocity::dGetKnots() {
-	return (this->dValue * (1852/3600));
+	return (this->dValue * (1852 / 3600.0));
 }
 double CVelocity::dGetKilometersPerHour() {
 	return (this->dValue *3.6);
@@ -124,7 +124,7 @@ double CLength::dGetFeet() {
 	return (this->dValue / 0.3048);
 }
 double CLength::dGetKilometers() {
-	return (this->dValue / 1000);
+	return (this->dValue / 1000.0);
 }
 double CLength::dGetInch() {
 	return (this->dValue / 0.0254);
@@ -171,7 +171,7 @@ CMassFlowRate::CMassFlowRate(double dValue, unsigned short usiUnit) {
 		this->dValue = dValue;
 		break;
 	case Unit_MassFlowRate_KilogramsPerHour:
-		this->dValue = dValue / 3600;
+		this->dValue = dValue / 3600.0;
 		break;
 	case Unit_MassFlowRate_PoundsPerHour:
 		this->dValue = dValue / 7936.6414387;
@@ -224,7 +224,7 @@ CAngle::CAngle(double dValue, unsigned short usiUnit) {
 		this->dValue = dValue;
 		break;
 	case Unit_Angle_Degree:
-		this->dValue = dValue *(360/6.28318530718);
+		this->dValue = dValue *(360 / 6.28318530718);
 		break;
 	default:
 		this->dValue = 0;
